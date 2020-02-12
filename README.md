@@ -19,7 +19,7 @@ Second GIF with added bonus feature:<br>
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+Some challenges I faced was mostly in the grid view area. My grid didn't come out correctly at first and ended up having to get help from the TA. Turns out a lot of other people had the same issue, though. I was able to fix that and even add a bonus.
 
 
 ---
