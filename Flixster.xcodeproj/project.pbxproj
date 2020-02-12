@@ -17,6 +17,7 @@
 		35900D7F23E8EDC2003B5368 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35900D7D23E8EDC2003B5368 /* LaunchScreen.storyboard */; };
 		BB2EE98523F137B0008E406E /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2EE98423F137B0008E406E /* MovieGridViewController.swift */; };
 		BB2EE98723F13CF9008E406E /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2EE98623F13CF9008E406E /* MovieGridCell.swift */; };
+		BB63C30723F3BCB0004F5A7D /* MovieGridDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB63C30623F3BCB0004F5A7D /* MovieGridDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		35900D8023E8EDC2003B5368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BB2EE98423F137B0008E406E /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		BB2EE98623F13CF9008E406E /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
+		BB63C30623F3BCB0004F5A7D /* MovieGridDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				3524A36E23EB9796002BA059 /* UIImageViewExtension.swift */,
 				3524A37023EBA06B002BA059 /* MovieDetailsViewController.swift */,
 				BB2EE98423F137B0008E406E /* MovieGridViewController.swift */,
+				BB63C30623F3BCB0004F5A7D /* MovieGridDetailsViewController.swift */,
 				BB2EE98623F13CF9008E406E /* MovieGridCell.swift */,
 				35900D7823E8EDB5003B5368 /* Main.storyboard */,
 				35900D7B23E8EDC2003B5368 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 			files = (
 				3524A37123EBA06B002BA059 /* MovieDetailsViewController.swift in Sources */,
 				35900D7523E8EDB5003B5368 /* AppDelegate.swift in Sources */,
+				BB63C30723F3BCB0004F5A7D /* MovieGridDetailsViewController.swift in Sources */,
 				350B509523E8FE8200162EFA /* MoviesViewController.swift in Sources */,
 				3524A36F23EB9796002BA059 /* UIImageViewExtension.swift in Sources */,
 				3524A36D23EB91EC002BA059 /* MovieCell.swift in Sources */,
